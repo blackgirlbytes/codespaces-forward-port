@@ -28,7 +28,7 @@ function Home() {
 
   return (
     <main className={styles.main}>
-      <h1>Codespaces Port Forwarding Demo</h1>
+      <h1>Codespaces Port Forwarding is Where It's At!</h1>
       <p>
         This is to show that you can share your local development environment in Codespaces with forwarded ports.
       </p>
